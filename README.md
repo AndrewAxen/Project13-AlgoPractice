@@ -1,6 +1,6 @@
 # Project 13 / Algo Practice
 
-Coding Practice Repository
+**Coding Practice Repository**
 
 This repository is part of Project 13 and is dedicated to practicing coding by solving beginner-level challenges on various online coding platforms. You can find my solutions to problems from LeetCode, HackerRank, and CodeWars in their respective folders.
 
