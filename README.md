@@ -1,4 +1,4 @@
-№ Project 13 / Algo Practice
+# Project 13 / Algo Practice
 
 Coding Practice Repository
 
