@@ -11,8 +11,6 @@ This repository is part of Project 13 and is dedicated to practicing coding by s
 
 ## Challenges
 
-I have worked on 2-3 beginner-level coding challenges from these platforms to improve my problem-solving and coding skills.
+I have worked on 3 beginner-level coding challenges from these platforms to improve my problem-solving and coding skills.
 
 Feel free to explore the solutions and code in this repository.
-
-Happy coding!
