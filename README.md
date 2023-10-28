@@ -15,4 +15,4 @@ I have worked on 3 beginner-level coding challenges from **Codewars** to improve
 
 Feel free to explore the solutions and code in this repository ([CodeWars folder](https://github.com/AndrewAxen/Project13-AlgoPractice/tree/main/CodeWars)).
 
-![My progress](https://i.ibb.co/QkGX2nz/progress.jpg)
+![My progress](https://github.com/AndrewAxen/Project13-AlgoPractice/blob/main/progress.jpg)
